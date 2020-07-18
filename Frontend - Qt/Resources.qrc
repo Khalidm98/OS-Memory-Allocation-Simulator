@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/Icons">
+        <file>Matrix.ico</file>
+        <file>Milkyway.jpeg</file>
+    </qresource>
+</RCC>
